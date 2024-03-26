@@ -1,0 +1,12 @@
+Package: LXmeta
+Type: Package
+Title: LXmeta
+Version: 24.3.26
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXmeta can be used to analyze the metabolites, which cited from MetaboAnalyst 5.0.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
